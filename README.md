@@ -6,4 +6,3 @@
 * Build front-end
 * Tidy up pages
 * Tracking & other plugins (comments, sumome etc...)
-* 
