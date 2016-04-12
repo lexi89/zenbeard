@@ -1,6 +1,43 @@
 /**
  * Site header
  */
+
+.menu{
+    position: fixed;
+    background-color: $text-color;
+    max-height: 100px;
+    width: 100%;
+    ul{
+        list-style-type: none;
+        display: flex;
+        margin-bottom: 0px;
+        justify-content: center;
+        margin-left: 0px;
+    }
+    li{
+        color: white;
+        font-family: $base-header-font;
+        font-size: 13px;
+        text-transform: uppercase;
+        margin: 20px;
+        }
+    }
+.homepage-logo{
+    position: relative;
+    margin: auto
+}
+
+.logo-mast{
+    text-align: center;
+    position: relative;
+    z-index: -1;
+    padding-top: 100px;
+    max-width: #{$content-width};
+    margin-right: auto;
+    margin-left: auto;
+    @extend %clearfix;
+}
+
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
@@ -206,7 +243,8 @@
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
-    line-height: 1;
+    line-height: 1.25;
+    text-align: center;
 
     @include media-query($on-laptop) {
         font-size: 36px;
