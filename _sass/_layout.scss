@@ -3,12 +3,15 @@
  */
 
 .mini-logo{
-    position: relative;
-    top: 13px;
+    // position: relative;
+    // top: 13px;
 }
 
 .menu-wrapper{
     background-color: $text-color;
+    display: flex;
+    align-content: center;
+    min-height: 55px;
     width: 100%;
 }
 
@@ -16,6 +19,9 @@
     max-height: 100px;
     width: $content-width;
     margin: auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
     ul{
         list-style-type: none;
         display: flex;
@@ -51,7 +57,7 @@
     text-align: center;
     position: relative;
     z-index: -1;
-    padding-top: 100px;
+    padding-top: 20px; // with fixed menu bar, change this to 100px
     max-width: #{$content-width};
     margin-right: auto;
     margin-left: auto;
@@ -309,5 +315,5 @@
 }
 
 .hide{
-    display: none;    
+    display: none;
 }
