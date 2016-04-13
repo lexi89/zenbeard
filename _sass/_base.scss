@@ -40,14 +40,18 @@ ul, ol, dl, figure,
 
 
 /**
- * Images
+ * Images & iframes
  */
-img {
+img{
     max-width: 100%;
     height: auto;
     vertical-align: middle;
 }
 
+iframe{
+    min-height: 400px;
+    width: 100%;
+}
 
 
 /**
