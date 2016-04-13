@@ -2,18 +2,9 @@
  * Site header
  */
 
-.fixed{
-    position: fixed;
-}
-
-.float-left{
-    float: left;
-}
-
 .mini-logo{
     position: relative;
     top: 13px;
-    // left: 50px;
 }
 
 .menu-wrapper{
@@ -306,4 +297,17 @@
             font-size: 18px;
         }
     }
+}
+
+// triggers
+.fixed{
+    position: fixed;
+}
+
+.float-left{
+    float: left;
+}
+
+.hide{
+    display: none;    
 }
