@@ -2,11 +2,29 @@
  * Site header
  */
 
-.menu{
+.fixed{
     position: fixed;
+}
+
+.float-left{
+    float: left;
+}
+
+.mini-logo{
+    position: relative;
+    top: 13px;
+    // left: 50px;
+}
+
+.menu-wrapper{
     background-color: $text-color;
-    max-height: 100px;
     width: 100%;
+}
+
+.menu{
+    max-height: 100px;
+    width: $content-width;
+    margin: auto;
     ul{
         list-style-type: none;
         display: flex;
@@ -19,7 +37,18 @@
         font-family: $base-header-font;
         font-size: 13px;
         text-transform: uppercase;
-        margin: 20px;
+        padding: 20px;
+        a{
+            padding: 20px;
+            color: white;
+            text-decoration: none;
+            &:visited{
+                color: white;
+            }
+        }
+        &:hover{
+            background-color: $brand-color;
+        }
         }
     }
 .homepage-logo{
@@ -205,7 +234,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: 2*$spacing-unit;
 }
 
 .page-heading {
