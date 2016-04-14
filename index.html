@@ -18,7 +18,7 @@ layout: default
 
   <!-- Pagination links -->
   <div class="pagination">
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span> <br>
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path | prepend: site.baseurl}}" class="previous">Previous</a>
     {% else %}

@@ -3,7 +3,7 @@
 ---
 @charset "utf-8";
 @import url(https://fonts.googleapis.com/css?family=Open+Sans|Lora);
-
+// Import partials from `sass_dir` (defaults to `_sass`)
 
 // Our variables
 $base-font-family: "Lora", serif;
@@ -27,9 +27,8 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Width of the content area
 $content-width:    800px;
 
-$on-palm:          600px;
+$on-palm:          480px;
 $on-laptop:        800px;
-
 
 
 // Use media queries like this:
@@ -45,9 +44,6 @@ $on-laptop:        800px;
     }
 }
 
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",

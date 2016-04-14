@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
-body {
+p {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
     background-color: $background-color;
@@ -91,8 +91,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: $base-header-weight;
 }
 
-
-
 /**
  * Links
  */
@@ -105,7 +103,6 @@ a {
     }
 
     &:hover {
-        color: $text-color;
         text-decoration: underline;
     }
 }
