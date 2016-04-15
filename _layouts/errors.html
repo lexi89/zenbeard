@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header-posts.html %}
+
+    {% if page.image.feature %}
+    <div class="hero-wrapper">
+
+        <div class="feature-image" style="background-image: url('{{site.baseurl}}/assets/{{page.image.feature}}')">
+        </div>
+
+        <div class="headline-wrapper">
+            <h1 class = "headline">{{ page.title}}</h1>
+            <h1><a href="/" class= light-link>Back to homepage</a></h1>
+        </div>
+    </div>
+    {% endif %}
+
+  </body>
+
+</html>
