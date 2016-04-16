@@ -6,7 +6,7 @@
 
 // Our variables
 $base-font-family: "Lora", serif;
-$base-header-font: "Open Sans", sans-serif;
+$base-header-font: "Oswald", sans-serif;
 $base-header-weight: 600;
 $base-font-size:   21px;
 $base-font-weight: 400;
@@ -43,7 +43,6 @@ $on-laptop:        800px;
     }
 }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
