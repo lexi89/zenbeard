@@ -258,6 +258,10 @@
     }
 }
 
+.subheadline{
+
+}
+
 .page-content {
     padding: 2*$spacing-unit;
 }
@@ -331,6 +335,18 @@
     }
     }
 
+// 404 page
+
+.error_headline{
+    font-size: 100px;
+    color: white;
+}
+
+.error_subhead{
+    font-size: 52px;
+    color: white;
+    text-align: center;
+}
 
 // triggers
 .fixed{
@@ -355,4 +371,8 @@
 
 .flex-column{
     flex-direction: column;
+}
+
+.white {
+    color: white;
 }
