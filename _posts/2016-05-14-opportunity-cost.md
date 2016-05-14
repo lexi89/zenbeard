@@ -1,11 +1,11 @@
 ---
 
-title: The Crazy Useful Thing Economists Figured Out A Long Time Ago About "Life"
+title: The Crazy Useful Thing Economists Figured Out A Long Time Ago About Life
 type: post
 categories: life-design
 image:
     feature: Smith.jpg
-fb_description: One of those 'We knew that ages ago, kid' moments...
+fb_description: Insights can come from the most unlikely of places...
 ---
 If we can all agree that we only get so much time in this one life, it seems the only question left is "how can I squeeze the most out of this thing?".
 
