@@ -227,7 +227,11 @@
 
 .hero-wrapper{
     min-height: 100vh;
-}
+    @include media-query($on-palm) {
+        min-height: 500px;
+        }
+    };
+
 
 .feature-image{
     background: no-repeat center center;
@@ -246,6 +250,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    @include media-query($on-palm) {
+        min-height: 500px;
+        }
+
 }
 
 .headline{
@@ -375,4 +383,15 @@
 
 .white {
     color: white;
+}
+
+.black {
+    color: $text-color
+}
+
+.third {
+    width: window
+}
+.wrapper h1{
+  padding-top: 20px;
 }
