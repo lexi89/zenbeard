@@ -8,7 +8,7 @@
 $base-font-family: "Lora", serif;
 $base-header-font: "Open Sans", sans-serif;
 $base-header-weight: 600;
-$base-font-size:   21px;
+$base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -24,7 +24,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    700px;
 
 $on-palm:          480px;
 $on-laptop:        800px;

@@ -5,7 +5,7 @@ type: post
 categories: life-design
 image:
     feature: Smith.jpg
-fb_description: 'One of those "we figured it out a long time ago, kid" scenarios.'
+fb_description: One of those 'We knew that ages ago, kid' moments...
 ---
 If we can all agree that we only get so much time in this one life, it seems the only question left is "how can I squeeze the most out of this thing?".
 
@@ -27,7 +27,7 @@ And since our *time* is limited, as we agreed earlier, what now?
 
 If you ever dabbled in economics, you might remember this textbook example:
 
-You have enough money to buy one chocolate bar and you choose a Mars bar. On the surface, the cost of a Mars bar is the price. However, behind the scenes, you have also passed on the "opportunity" of eating a Snickers bar. Or an apple. Or giving that money to the homeless man outside the shop.
+You have enough money to buy one chocolate bar and you choose a Mars bar. On the surface, the cost of a Mars bar is just the price. However, behind the scenes, you've also passed on the "opportunity" of eating a Snickers bar. Or an apple. Or giving that money to the homeless man outside the shop instead.
 
 Whenever you use a resource like money, land, or *time*, there is always an "opportunity cost" attached to it.
 
