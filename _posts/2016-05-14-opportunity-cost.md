@@ -59,7 +59,7 @@ In future, whenever you hear "*I don't have the time*", turn it into: "*I've sai
 
 # There is no such thing as a "yes" without a "no".
 
-And, more importantly, every time you say "no", you are create space for something else to take its place.
+And, more importantly, every time you say "no", you create space for something else to take its place.
 
 You *will* fill the time, whether you like it or not. And right now you are making yes/no decisions on how to fill it.
 
@@ -69,7 +69,7 @@ Understanding the full cost of your decisions is one the most helpful and bullsh
 
 It can take a little time to get used to, but if you decide to, you can flick the switch and everything will somehow rearrange and re-prioritise itself. I've seen it happen and it's magical.
 
-Most people die whispering regrets because they didn't see the full cost of their decisions. will be completely unaware of the full cost of their decisions throughout their lives only to die whispering regrets.
+Most people die whispering regrets because they didn't see what their decisions *actually* cost. The time they spent destroying their body instead of looking after it. The hours in meetings instead of with their loved ones. All the years spent thinking about what could have happened instead of trying and finding out.
 
 Now is your chance to live out the rest of your life conscious of the trade-offs you make with your time.
 
